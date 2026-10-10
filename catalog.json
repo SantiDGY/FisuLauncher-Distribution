@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "fisumon",
+      "name": "Fisumon",
+      "subtitle": "Tu aventura Cobblemon",
+      "minecraftVersion": "1.21.1",
+      "modpackVersion": "Cobbleverse 1.7.42",
+      "loader": "fabric",
+      "status": "published",
+      "serverAddress": null,
+      "theme": "emerald",
+      "fabricVersion": "0.18.4"
+    }
+  ]
+}
