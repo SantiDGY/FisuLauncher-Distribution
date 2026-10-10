@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "bienvenidos-fisumon",
+      "title": "Bienvenidos a Fisumon",
+      "date": "2026-10-12",
+      "category": "anuncio",
+      "content": "La apertura está prevista para el lunes 12. Consultá Discord para las novedades y recordá registrar tu nombre de Minecraft para la whitelist."
+    }
+  ]
+}
